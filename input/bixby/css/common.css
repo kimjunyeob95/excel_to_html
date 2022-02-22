@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+*{-webkit-text-size-adjust:none;-webkit-box-sizing:border-box;box-sizing:border-box}
+body, html {width:100%;height:100%;}
+body, form, div, p, h1, h2, h3, h4, h5, h6, dl, dt, dd, ul, ol, li, fieldset, th, td, input, textarea,button,select{margin:0;padding:0; font-weight:normal;}
+body{overflow-x:hidden;overscroll-behavior-y: contain;font-size:4.166vw; line-height:1.40; font-family:'SamsungOneKoreanB', 'Microsoft YaHei', AppleGothic, sans-serif; color:#fff; -webkit-overflow-scrolling:touch;
+    background: rgb(15,77,120);
+    background: linear-gradient(0deg, rgba(15,77,120,1) 0%, rgba(6,51,82,1) 46%, rgba(7,14,33,1) 100%);}
+li{list-style:none}
+a{text-decoration:none;-webkit-tap-highlight-color:transparent;}
+a[href^="tel"]{font-style:normal}
+address, caption, em, var{font-style:normal;font-weight:normal}
+input, textarea, select{letter-spacing:normal;}
+ol, ul, dl{list-style:none}
+fieldset, img{border:0}
+legend, caption{display:none}
+img{border:0;vertical-align:top;max-width:100%;}
+hr{display:none}
+table{border-collapse:collapse;border-spacing:0}
+br{letter-spacing:normal}
+p{letter-spacing:normal}
+input{vertical-align:middle}
+input[type="text"], input[type="password"], input[type="time"],input[type="date"],input[type="email"],input[type="tel"],input[type="number"],
+input[type="search"] {width:100%; vertical-align:middle; height:36px; font-size:15px; padding:0 10px; color:#505562; -webkit-box-sizing:border-box; box-sizing:border-box; border:1px solid #bfc7ce; border-radius:3px;
+    -webkit-appearance:none; background:#f7fbff;}
+input[type="checkbox"] {vertical-align:middle; -webkit-border-radius:0;}
+input[type="radio"] {vertical-align:middle;}
+button,input[type="button"],input[type="submit"],input[type="reset"],input[type="file"]{-webkit-appearance:button;border-radius:0}
+textarea {width:100%; padding:10px; line-height:24px; -webkit-box-sizing:border-box; box-sizing:border-box; resize:none; border:1px solid #bfc7ce; border-radius:2px; -webkit-appearance:none;}
+select {vertical-align:middle; -webkit-appearance:none; min-width:150px; padding:0 42px 0 7px; color:#505562; font-size:15px; line-height:32px; border:1px solid #bfc7ce; border-radius:2px;}
+.hide-txt{font-size:1px;line-height:0;position:absolute;display:inline-block;overflow:hidden;clip:rect(1px 1px 1px 1px);width:1px;height:1px}
+
+/* Font */
+@font-face {
+    font-family: 'SamsungOneKoreanB';
+    src: url("../font/SamsungOneKorean-700.eot");
+    src: url("../font/SamsungOneKorean-700.eot?#iefix") format("embedded-opentype"),
+    url("../font/SamsungOneKorean-700.woff2") format("woff2"),
+    url("../font/SamsungOneKorean-700.woff") format("woff"),
+    url("../font/SamsungOneKorean-700.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal
+}
+@font-face {
+    font-family:'SamsungOne400';
+    src:url('../font/samsungone-400.eot');
+    src:url('../font/samsungone-400.eot?#iefix') format('embedded-opentype'),
+    url('../font/samsungone-400.woff2') format('woff2'),
+    url('../font/samsungone-400.woff') format('woff'),
+    url('../font/samsungone-400.ttf') format('truetype');
+    font-style:normal;
+    font-weight:normal;
+    text-rendering:optimizeLegibility;
+}
+@font-face{
+    font-family:'SamsungOne600';
+    src:url(../font/SamsungOne-600.eot);
+    src:url(../font/SamsungOne-600.eot?#iefix) format("embedded-opentype"),
+    url(../font/SamsungOne-600.woff) format("woff"),
+    url(../font/SamsungOne-600.ttf) format("truetype");
+    font-weight:bold;
+    font-style:normal
+}
+@font-face{
+    font-family:'SamsungOne';
+    src:url(../font/SamsungOne-700.eot);
+    src:url(../font/SamsungOne-700.eot?#iefix) format("embedded-opentype"),
+    url(../font/SamsungOne-700.woff2) format("woff2"),
+    url(../font/SamsungOne-700.woff) format("woff"),
+    url(../font/SamsungOne-700.ttf) format("truetype");
+    font-weight:bold;
+    font-style:normal
+}
+@font-face{
+    font-family:'SamsungSharpSansB';
+    src:
+    url(../font/SamsungSharpSans-Bold.ttf) format("truetype");
+    font-weight:bold;
+    font-style:normal
+}
+
+
+
+
