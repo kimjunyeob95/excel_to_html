@@ -10,6 +10,10 @@
 
  select::-ms-expand{display:none; /* 화살표 없애기 for IE10, 11*/}
 
+ select option{
+    font-size: 16px;
+ }
+
  .w-inner{box-sizing: border-box;}
 
  .wrap{padding: 50px 70px;}
