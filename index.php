@@ -6,6 +6,10 @@
 
     $rows = 300;
     //echo('<pre>');print_r($_SERVER['DOCUMENT_ROOT']."/onboarding");echo('</pre>');
+    foreach ($type_nation as $key => $value) {
+        $sort[$key] = $key;
+    }
+    array_multisort($sort, SORT_ASC, $type_nation);
 ?>
 
 <!DOCTYPE html>
@@ -34,7 +38,7 @@
                     <?
                         foreach($type_nation as $key => $val){
                     ?>
-                        <option nation="<?=$key?>" value=<?=$val?>><?=$key?></option>
+                        <option nation="<?=$val[0]?>" value=<?=$val[1]?>><?=$key?></option>
                     <?}?>
                 </select>
             </li>
