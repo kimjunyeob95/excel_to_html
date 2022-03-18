@@ -521,51 +521,51 @@
                     <div class="acc_wrap">
                         <ul class="acc_list">
                             <li class="active product-image-li">
-                                <img src="asset/images/accessory/01.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/01.png" alt="">
                                 <p class="title">{{{lang6}}}</p>
                             </li>
                             <li class="product-image-li">
-                                <img src="asset/images/accessory/02.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/02.png" alt="">
                                 <p class="title">{{{lang7}}}</p>
                             </li>
                             <li class="product-image-li">
-                                <img src="asset/images/accessory/03.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/03.png" alt="">
                                 <p class="title">{{{lang8}}}</p>
                             </li>
                             <li style="top:130px;" class="product-image-li">
-                                <img src="asset/images/accessory/04.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/04.png" alt="">
                                 <p class="title">{{{lang10}}}</p>
                             </li>
                             <li style="top:130px;" class="product-image-li">
-                                <img src="asset/images/accessory/05.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/05.png" alt="">
                                 <p class="title">{{{lang11}}}</p>
                             </li>
                             <li style="top:130px;" class="product-image-li">
-                                <img src="asset/images/accessory/06.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/06.png" alt="">
                                 <p class="title">{{{lang13}}}</p>
                             </li>
                             <li style="top:260px;" class="product-image-li">
-                                <img src="asset/images/accessory/07.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/07.png" alt="">
                                 <p class="title">{{{lang14}}}</p>
                             </li>
                             <li style="top:260px;" class="product-image-li">
-                                <img src="asset/images/accessory/08.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/08.png" alt="">
                                 <p class="title">{{{lang16}}}</p>
                             </li>
                             <li style="top:260px;" class="product-image-li">
-                                <img src="asset/images/accessory/09.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/09.png" alt="">
                                 <p class="title">{{{lang17}}}</p>
                             </li>
                             <li style="top:260px;" class="product-image-li">
-                                <img src="asset/images/accessory/10.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/10.png" alt="">
                                 <p class="title">{{{lang19}}}</p>
                             </li>
                             <li style="top:260px;" class="product-image-li">
-                                <img src="asset/images/accessory/11.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/11.png" alt="">
                                 <p class="title">{{{lang20}}}</p>
                             </li>
                             <li style="top:260px;" class="product-image-li">
-                                <img src="asset/images/accessory/12.png" alt="">
+                                <img src="../../catalog/asset/images/accessory/12.png" alt="">
                                 <p class="title">{{{lang21}}}</p>
                             </li>
                         </ul>
@@ -582,13 +582,13 @@
                         <div class="swiper-slide">
                             <div id="listSmartPhone" class="view v1 current">
                                 <!-- 220314 add -->
-                                <a href="#n" class="pro" onclick="vstore.product('#layer_s22',0)"><p class="tit black"><strong>{{{lang1}}}</strong><span>{{{lang2}}}</span></p><img src="asset/images/Smartphone19.jpg" alt=""></a>
+                                <a href="#n" class="pro" onclick="vstore.product('#layer_s22',0)"><p class="tit black"><strong>{{{lang1}}}</strong><span>{{{lang2}}}</span></p><img src="../../catalog/asset/images/Smartphone19.jpg" alt=""></a>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div id="listTablet" class="view v2">
                                 <!-- 220314 add -->
-                                <a href="#n" class="pro" onclick="vstore.product('#layer_tab_s8',0)"><p class="tit black"><strong>{{{lang3}}}</strong><span>{{{lang4}}}</span></p><img src="asset/images/tab07.jpg" alt=""></a>
+                                <a href="#n" class="pro" onclick="vstore.product('#layer_tab_s8',0)"><p class="tit black"><strong>{{{lang3}}}</strong><span>{{{lang4}}}</span></p><img src="../../catalog/asset/images/tab07.jpg" alt=""></a>
                             </div>
                         </div>
                         <div class="swiper-slide">

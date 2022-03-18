@@ -7,7 +7,7 @@
         <div id="wrap">
             <section id="intro" class="intro on">
                 <h1 class="logo">
-                    <img src="images/logo.png" alt="Bixby">
+                    <img src="../../bixby/images/logo.png" alt="Bixby">
                 </h1>
                 <div class="intro_txt q wow fadeOut" data-wow-delay="0.7s"  data-wow-duration="2.0s">
                     <p class="ff-title">Learning<br>With Bixby</p>
@@ -73,7 +73,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang4}}}</h2>
 
-                                        <img src="images/img_s22_signature01.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_signature01.gif" alt="">
 
                                         <p>
                                             {{{lang5}}}
@@ -83,7 +83,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang6}}}</h2>
 
-                                        <img src="images/img_s22_signature02.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_signature02.gif" alt="">
 
                                         <p>
                                             {{{lang7}}}
@@ -93,7 +93,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang8}}}</h2>
 
-                                        <img src="images/img_s22_signature03.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_signature03.gif" alt="">
 
                                         <p>
                                             {{{lang9}}}
@@ -116,7 +116,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang12}}}</h2>
 
-                                        <img src="images/img_s22_camera01.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_camera01.gif" alt="">
 
                                         <p>
                                             {{{lang13}}}
@@ -126,7 +126,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang14}}}</h2>
 
-                                        <img src="images/img_s22_camera02.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_camera02.gif" alt="">
 
                                         <p>
                                         {{{lang15}}}
@@ -136,7 +136,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang16}}}</h2>
 
-                                        <img src="images/img_s22_camera03.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_camera03.gif" alt="">
 
                                         <p>
                                         {{{lang17}}}
@@ -159,7 +159,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang20}}}</h2>
 
-                                        <img src="images/img_s22_performance01.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_performance01.gif" alt="">
 
                                         <p>
                                             {{{lang21}}}
@@ -169,7 +169,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang22}}}</h2>
 
-                                        <img src="images/img_s22_performance02.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_performance02.gif" alt="">
 
                                         <p>
                                             {{{lang23}}}
@@ -193,7 +193,7 @@
                                     <div class="section">
                                         <h2 class="ff-title" style="letter-spacing: -.1vw;">{{{lang26}}}</h2>
 
-                                        <img src="images/img_s22_levelpower01.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_levelpower01.gif" alt="">
 
                                         <p>
                                             {{{lang27}}}
@@ -202,7 +202,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang28}}}</h2>
 
-                                        <img src="images/img_s22_levelpower02.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_levelpower02.gif" alt="">
 
                                         <p>
                                         {{{lang29}}}
@@ -225,7 +225,7 @@
                                     <div class="section">
                                         <h2 class="ff-title" style="letter-spacing: -.1vw;">{{{lang32}}}</h2>
 
-                                        <img src="images/img_s22_experience01.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_experience01.gif" alt="">
 
                                         <p>
                                         {{{lang33}}}
@@ -234,7 +234,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang34}}}</h2>
 
-                                        <img src="images/img_s22_experience02.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_experience02.gif" alt="">
 
                                         <p>
                                         {{{lang35}}}
@@ -243,7 +243,7 @@
                                     <div class="section">
                                         <h2 class="ff-title">{{{lang36}}}</h2>
 
-                                        <img src="images/img_s22_experience03.gif" alt="">
+                                        <img src="../../bixby/images/img_s22_experience03.gif" alt="">
 
                                         <p>
                                         {{{lang37}}}
